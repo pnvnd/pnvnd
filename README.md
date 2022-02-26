@@ -1,6 +1,4 @@
 # About Me
-# About Me
-
 
 ![](https://img.shields.io/badge/-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=success)
 ![](https://img.shields.io/badge/-Synology-informational?style=for-the-badge&logo=synology&logoColor=white&color=informational)
